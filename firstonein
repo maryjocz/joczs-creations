@@ -1,7 +1,14 @@
 <!DOCTYPE htlm>
+
 <html>
+
 <head>
 
 <title> nome sito </title>
 
 <link rel ="stylesheet" type "text/css" href ="css/reset.css">
+  
+  </head>
+  <body>
+    <p> <mark> hello world <mark> </p>
+      </body>
